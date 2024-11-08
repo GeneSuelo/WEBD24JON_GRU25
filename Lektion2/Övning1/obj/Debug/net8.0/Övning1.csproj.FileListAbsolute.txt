@@ -1,0 +1,14 @@
+D:\LektionC#programnmering\Lektion2\Övning1\bin\Debug\net8.0\Övning1.exe
+D:\LektionC#programnmering\Lektion2\Övning1\bin\Debug\net8.0\Övning1.deps.json
+D:\LektionC#programnmering\Lektion2\Övning1\bin\Debug\net8.0\Övning1.runtimeconfig.json
+D:\LektionC#programnmering\Lektion2\Övning1\bin\Debug\net8.0\Övning1.dll
+D:\LektionC#programnmering\Lektion2\Övning1\bin\Debug\net8.0\Övning1.pdb
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.AssemblyInfoInputs.cache
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.AssemblyInfo.cs
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.csproj.CoreCompileInputs.cache
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.dll
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\refint\Övning1.dll
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.pdb
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\Övning1.genruntimeconfig.cache
+D:\LektionC#programnmering\Lektion2\Övning1\obj\Debug\net8.0\ref\Övning1.dll
