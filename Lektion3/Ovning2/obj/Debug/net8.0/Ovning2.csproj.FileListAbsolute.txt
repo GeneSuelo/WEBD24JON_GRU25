@@ -1,0 +1,15 @@
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\bin\Debug\net8.0\Ovning2.exe
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\bin\Debug\net8.0\Ovning2.deps.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\bin\Debug\net8.0\Ovning2.runtimeconfig.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\bin\Debug\net8.0\Ovning2.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\bin\Debug\net8.0\Ovning2.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.AssemblyInfoInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.AssemblyInfo.cs
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.csproj.CoreCompileInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.sourcelink.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\refint\Ovning2.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\Ovning2.genruntimeconfig.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion3\Ovning2\obj\Debug\net8.0\ref\Ovning2.dll
