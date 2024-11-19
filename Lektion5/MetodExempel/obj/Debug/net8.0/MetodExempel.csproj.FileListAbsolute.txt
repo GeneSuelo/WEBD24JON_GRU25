@@ -1,0 +1,15 @@
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\bin\Debug\net8.0\MetodExempel.exe
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\bin\Debug\net8.0\MetodExempel.deps.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\bin\Debug\net8.0\MetodExempel.runtimeconfig.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\bin\Debug\net8.0\MetodExempel.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\bin\Debug\net8.0\MetodExempel.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.GeneratedMSBuildEditorConfig.editorconfig
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.AssemblyInfoInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.AssemblyInfo.cs
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.csproj.CoreCompileInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.sourcelink.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\refint\MetodExempel.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\MetodExempel.genruntimeconfig.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\MetodExempel\obj\Debug\net8.0\ref\MetodExempel.dll

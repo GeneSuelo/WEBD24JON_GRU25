@@ -1,0 +1,15 @@
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\bin\Debug\net8.0\Ovningar.exe
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\bin\Debug\net8.0\Ovningar.deps.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\bin\Debug\net8.0\Ovningar.runtimeconfig.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\bin\Debug\net8.0\Ovningar.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\bin\Debug\net8.0\Ovningar.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.GeneratedMSBuildEditorConfig.editorconfig
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.AssemblyInfoInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.AssemblyInfo.cs
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.csproj.CoreCompileInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.sourcelink.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\refint\Ovningar.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\Ovningar.genruntimeconfig.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion5\Ovning1\obj\Debug\net8.0\ref\Ovningar.dll
