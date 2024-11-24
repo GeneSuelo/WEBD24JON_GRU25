@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F5EF9-9581-40F8-A92D-2625A2F66844}|Ovning9\\Ovning9.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion3\\ovning9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56F5EF9-9581-40F8-A92D-2625A2F66844}|Ovning9\\Ovning9.csproj|solutionrelative:ovning9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F19372B9-E7AD-47DE-826A-A7CEB26BBE38}|Ovning6\\Ovning6.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion3\\ovning6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F19372B9-E7AD-47DE-826A-A7CEB26BBE38}|Ovning6\\Ovning6.csproj|solutionrelative:ovning6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,32 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion3\\Ovning9\\Program.cs",
-              "RelativeDocumentMoniker": "Ovning9\\Program.cs",
-              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion3\\Ovning9\\Program.cs",
-              "RelativeToolTip": "Ovning9\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:50:08.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion3\\Ovning6\\Program.cs",
-              "RelativeDocumentMoniker": "Ovning6\\Program.cs",
-              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion3\\Ovning6\\Program.cs",
-              "RelativeToolTip": "Ovning6\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:27:01.777Z",
-              "EditorCaption": ""
             }
           ]
         },

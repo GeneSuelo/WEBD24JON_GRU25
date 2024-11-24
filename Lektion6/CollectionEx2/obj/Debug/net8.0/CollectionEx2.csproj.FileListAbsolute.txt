@@ -1,0 +1,15 @@
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\bin\Debug\net8.0\CollectionEx2.exe
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\bin\Debug\net8.0\CollectionEx2.deps.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\bin\Debug\net8.0\CollectionEx2.runtimeconfig.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\bin\Debug\net8.0\CollectionEx2.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\bin\Debug\net8.0\CollectionEx2.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.AssemblyInfoInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.AssemblyInfo.cs
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.csproj.CoreCompileInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.sourcelink.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\refint\CollectionEx2.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\CollectionEx2.genruntimeconfig.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion6\CollectionEx2\obj\Debug\net8.0\ref\CollectionEx2.dll
