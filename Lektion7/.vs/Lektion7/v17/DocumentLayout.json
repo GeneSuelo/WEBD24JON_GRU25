@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion6\\",
+  "WorkspaceRootPath": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD010CDC-C907-4C4B-8817-B66C28E744B0}|CollectionEx2\\CollectionEx2.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion6\\collectionex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD010CDC-C907-4C4B-8817-B66C28E744B0}|CollectionEx2\\CollectionEx2.csproj|solutionrelative:collectionex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B48A2BC-5D48-4019-8E78-18834B7D8F8E}|Ex2\\Ex2.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion7\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B48A2BC-5D48-4019-8E78-18834B7D8F8E}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49376848-F28C-42B2-9402-925ED55AFB15}|CollectionEx1\\CollectionEx1.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion6\\collectionex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49376848-F28C-42B2-9402-925ED55AFB15}|CollectionEx1\\CollectionEx1.csproj|solutionrelative:collectionex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FA85281-2520-4605-AEDD-A860F2AC0248}|Ex1\\Ex1.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion7\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA85281-2520-4605-AEDD-A860F2AC0248}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,28 +62,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion6\\CollectionEx1\\Program.cs",
-              "RelativeDocumentMoniker": "CollectionEx1\\Program.cs",
-              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion6\\CollectionEx1\\Program.cs",
-              "RelativeToolTip": "CollectionEx1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion7\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion7\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:42:02.058Z",
+              "WhenOpened": "2024-11-26T09:33:25.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion6\\CollectionEx2\\Program.cs",
-              "RelativeDocumentMoniker": "CollectionEx2\\Program.cs",
-              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion6\\CollectionEx2\\Program.cs",
-              "RelativeToolTip": "CollectionEx2\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAuwCMAAAANAAAA",
+              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion7\\Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1\\Program.cs",
+              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion7\\Ex1\\Program.cs",
+              "RelativeToolTip": "Ex1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:41:25.763Z",
+              "WhenOpened": "2024-11-26T07:57:44.631Z",
               "EditorCaption": ""
             }
           ]
