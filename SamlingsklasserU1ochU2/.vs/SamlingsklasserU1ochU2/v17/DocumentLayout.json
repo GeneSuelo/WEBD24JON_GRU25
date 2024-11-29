@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,23 +61,6 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\SamlingsklasserU1ochU2\\Uppgift2\\Program.cs",
-              "RelativeDocumentMoniker": "Uppgift2\\Program.cs",
-              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\SamlingsklasserU1ochU2\\Uppgift2\\Program.cs",
-              "RelativeToolTip": "Uppgift2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:06:05.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
@@ -91,13 +74,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\SamlingsklasserU1ochU2\\Uppgift2\\Program.cs",
+              "RelativeDocumentMoniker": "Uppgift2\\Program.cs",
+              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\SamlingsklasserU1ochU2\\Uppgift2\\Program.cs",
+              "RelativeToolTip": "Uppgift2\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:06:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\SamlingsklasserU1ochU2\\Uppgift1\\Program.cs",
               "RelativeDocumentMoniker": "Uppgift1\\Program.cs",
               "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\SamlingsklasserU1ochU2\\Uppgift1\\Program.cs",
               "RelativeToolTip": "Uppgift1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAYAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wCwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T14:02:04.601Z",
               "EditorCaption": ""
@@ -115,10 +111,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Bookmark",

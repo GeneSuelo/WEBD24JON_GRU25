@@ -1,0 +1,15 @@
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\bin\Debug\net8.0\Uppgift1.exe
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\bin\Debug\net8.0\Uppgift1.deps.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\bin\Debug\net8.0\Uppgift1.runtimeconfig.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\bin\Debug\net8.0\Uppgift1.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\bin\Debug\net8.0\Uppgift1.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.AssemblyInfoInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.AssemblyInfo.cs
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.csproj.CoreCompileInputs.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.sourcelink.json
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\refint\Uppgift1.dll
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.pdb
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\Uppgift1.genruntimeconfig.cache
+D:\LektionC#programnmering\-WEBD24JON_GRU25\Lektion8\Uppgift1\obj\Debug\net8.0\ref\Uppgift1.dll
