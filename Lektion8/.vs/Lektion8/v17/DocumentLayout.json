@@ -5,6 +5,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion8\\inloggsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|solutionrelative:inloggsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InloggSystem/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion8\\inloggsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|solutionrelative:inloggsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion8\\inloggsystem\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|solutionrelative:inloggsystem\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|d:\\lektionc#programnmering\\-webd24jon_gru25\\lektion8\\inloggsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2996C787-2C26-4052-97AD-63BFF7D5DAC4}|InloggSystem\\InloggSystem.csproj|solutionrelative:inloggsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +85,62 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InloggSystem/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T10:04:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\App.config",
+              "RelativeDocumentMoniker": "InloggSystem\\App.config",
+              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\App.config",
+              "RelativeToolTip": "InloggSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T08:40:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\UserContext.cs",
+              "RelativeDocumentMoniker": "InloggSystem\\UserContext.cs",
+              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\UserContext.cs",
+              "RelativeToolTip": "InloggSystem\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:23:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\User.cs",
+              "RelativeDocumentMoniker": "InloggSystem\\User.cs",
+              "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\User.cs",
+              "RelativeToolTip": "InloggSystem\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:13:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\Program.cs",
               "RelativeDocumentMoniker": "InloggSystem\\Program.cs",
               "ToolTip": "D:\\LektionC#programnmering\\-WEBD24JON_GRU25\\Lektion8\\InloggSystem\\Program.cs",
               "RelativeToolTip": "InloggSystem\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T10:54:27.297Z",
               "EditorCaption": ""
